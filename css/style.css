@@ -1,0 +1,20 @@
+.search-widget {
+	margin-top: 15vh;
+	margin-bottom: 10vh;
+}
+
+#search-icon {
+	padding-right: 10px;
+}
+
+.search-widget, .links {
+	text-align: center;
+}
+
+.link {
+	display: block;
+}
+
+.background {
+	 background-image: url("https://i.imgur.com/ZXwxNA9.png") !important;
+}
